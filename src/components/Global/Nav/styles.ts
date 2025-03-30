@@ -39,7 +39,7 @@ export const DetailsContainer = styled.div`
   align-items: center;
 `;
 
-export const NavTextLink = styled.span`
+export const NavTextLink = styled.a`
   text-decoration: none;
   font-size: 15px;
   font-weight: 500;

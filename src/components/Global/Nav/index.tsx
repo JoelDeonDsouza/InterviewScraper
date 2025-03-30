@@ -14,7 +14,7 @@ const Nav = () => {
       <NavContent>
         <Logo src={logo} alt="Logo" />
         <DetailsContainer>
-          <NavTextLink>ReadMe</NavTextLink>
+          <NavTextLink href="https://github.com/JoelDeonDsouza/InterviewScraper">ReadMe</NavTextLink>
         </DetailsContainer>
       </NavContent>
     </NavContainer>
