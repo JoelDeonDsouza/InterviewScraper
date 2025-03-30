@@ -1,8 +1,12 @@
+import { Nav, Home } from "./components";
 
 function App() {
   return (
-    <h1>Hello world</h1>
-  )
+    <>
+      <Nav />
+      <Home />
+    </>
+  );
 }
 
-export default App
+export default App;
